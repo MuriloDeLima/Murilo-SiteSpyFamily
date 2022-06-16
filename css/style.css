@@ -6,7 +6,7 @@
     top: 0px;
     position:absolute;
     background-color: #ffffff;
-    background-image: url(../imagems/spy.jpg);
+    background-image: url(../imagems/spy3.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -30,20 +30,20 @@
     left: 0px;
     top: 0px;
     position: absolute;
-    background-color: #252525;
+    background-color: #000000;
     
 
 }
 
 .links{
-    width: 10%;
-    height: 45%;
+    width: 10vw;
+    height: 37vh;
     margin-left: 4px;
     margin-top: 80px;
     left: 0px;
     top: 145px;
     position: absolute;
-    background-color: #252525;
+    background-color: #000000;
     border-radius: 8px;
 
 
@@ -72,7 +72,7 @@
     right: 0px;
     bottom: 0px;
     position: absolute;
-    background-color: #252525;
+    background-color: #000000
 
 }
 
@@ -110,9 +110,9 @@
 
 
 .menutext{
-    color: #a9c781;
-    font-size: 17px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #2d2e2e;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     
 }
@@ -167,21 +167,16 @@
     
 }
 
-.Tiltle{
-    margin-left: 500px;
-     position: absolute;
-   
+
+
+.spytext{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    Color: #a9c781;
+    margin-left:570px;
     
 }
 
-.textspy{
-    color: #a9c781;
-    font-size: 45px;
-    background-attachment: fixed;
-
-
-
-}
 
 
 
